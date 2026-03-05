@@ -25,11 +25,12 @@ The dashboard allows users to explore portfolio composition, asset allocation, a
 - Streamlit
 - Matplotlib
 - XlsxWriter
+- Yahoo Finance
 
 # Dependencies
 Install the required Python libraries before running the application.
 
-pip install streamlit pandas numpy plotly matplotlib xlsxwriter
+pip install streamlit pandas numpy plotly matplotlib xlsxwriter yfinance
 
 Libraries used in this project:
 - streamlit
@@ -38,6 +39,7 @@ Libraries used in this project:
 - plotly
 - matplotlib
 - xlsxwriter
+- yfinance
 
 # Project Structure
 mini-aladdin-portfolio-analysis/
