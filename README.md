@@ -61,8 +61,10 @@ pip install streamlit pandas numpy plotly matplotlib xlsxwriter
 streamlit run app.py
 
 # Dashboard Preview
-![Dashboard](mini alddin dashboard SS/dashboard 1.png)
-![Dashboard](mini alddin dashboard SS/dashboard 2.png)
+
+![Portfolio Dashboard](screenshots/dashboard-1.png)
+
+![Portfolio Analytics](screenshots/dashboard-2.png)
 
 
 # Purpose
